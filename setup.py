@@ -19,7 +19,7 @@ setup(
     python_requires=">=3.8",
     install_requires=[
         'beautifulsoup4==4.8.1',
-        'lxml==4.6.2',
+        'lxml==4.6.5',
         'Jinja2==2.10.3',
         'WeasyPrint==50',
         'python-dateutil',
